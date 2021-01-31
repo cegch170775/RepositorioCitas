@@ -9,7 +9,7 @@
  * @author CARLOS GUALPA
  */
 public class Index {
-
+// inicio de programa
     public static void main(String[] args) {
         new controllers.UsuariosController().index();
         
